@@ -7,7 +7,7 @@ about:
   head: a1ec54a
   archived: false
   latestVersion: v0.1.208
-  collectedAt: 2026-09-04T19:39:59Z
+  collectedAt: 2026-09-04T20:59:50Z
 timeline:
   created: 2026-02-15
   lastCommit: 2026-08-15
@@ -85,5 +85,58 @@ total:
   openIssue: 8
   commit: 603
 ---
+path: /home/runner/.x-repo/github.com/justrach/nanobrew
+collectedAt: 2026-09-04T20:59:51Z
+loc:
+  Json:
+    code: 41324
+    comments: 0
+    blanks: 0
+    files: 23
+  Zig:
+    code: 26144
+    comments: 3091
+    blanks: 3246
+    files: 58
+  JavaScript:
+    code: 7948
+    comments: 19
+    blanks: 584
+    files: 12
+  Python:
+    code: 1079
+    comments: 38
+    blanks: 148
+    files: 1
+  Sh:
+    code: 994
+    comments: 139
+    blanks: 147
+    files: 10
+  Ruby:
+    code: 24
+    comments: 0
+    blanks: 4
+    files: 1
+  Dockerfile:
+    code: 11
+    comments: 4
+    blanks: 6
+    files: 1
+  Toml:
+    code: 6
+    comments: 0
+    blanks: 1
+    files: 1
+  Markdown:
+    code: 0
+    comments: 2006
+    blanks: 695
+    files: 14
+total:
+  code: 77715
+  comments: 5340
+  blanks: 4846
+  files: 121
 ---
 
