@@ -5,13 +5,13 @@ about:
   head: a1ec54a
   archived: false
   latestVersion: "v0.1.208"
-  collectedAt: 2026-09-07T04:31:10Z
+  collectedAt: 2026-09-07T19:50:59Z
 timeline:
   created: 2026-02-15
   lastCommit: 2026-08-15
   lastRelease: 2026-08-15
 popularity:
-  star: 1114
+  star: 1115
   watcher: 2
   fork: 19
   release: 44
@@ -84,7 +84,7 @@ total:
   commit: 603
 ---
 path: /home/runner/.x-repo/github.com/justrach/nanobrew
-collectedAt: 2026-09-07T04:31:12Z
+collectedAt: 2026-09-07T19:51:03Z
 loc:
   Json:
     code: 41324
@@ -140,7 +140,7 @@ total:
 
 ---
 eget:
-  collectedAt: 2026-09-07T04:31:13+00:00
+  collectedAt: 2026-09-07T19:51:05+00:00
   platform:
     darwin/arm64:
       name:  nb-arm64-apple-darwin.tar.gz
