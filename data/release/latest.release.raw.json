@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1136713,
       "digest": "sha256:3fd66ad2d2fbec5a3d75aca02e6f7a0d0793a4a21f16b1ece3baf5203ee610dd",
-      "download_count": 166,
+      "download_count": 167,
       "created_at": "2026-08-15T09:43:40Z",
       "updated_at": "2026-08-15T09:43:45Z",
       "browser_download_url": "https://github.com/justrach/nanobrew/releases/download/v0.1.208/nb-arm64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 95,
       "digest": "sha256:e2dc12c71be67db5d53cfa9c73679f8ca5dbff2c9a980c6662e3af020b7d8497",
-      "download_count": 101,
+      "download_count": 102,
       "created_at": "2026-08-15T09:43:40Z",
       "updated_at": "2026-08-15T09:43:41Z",
       "browser_download_url": "https://github.com/justrach/nanobrew/releases/download/v0.1.208/nb-arm64-apple-darwin.tar.gz.sha256"
