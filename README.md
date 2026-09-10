@@ -23,11 +23,25 @@ x install nanobrew
 - **Latest**: `v0.1.210` (2026-09-09)
 - **Last commit**: 2026-09-09
 - **Assets in release**: 10
-- **Published**: 2026-09-09T03:44:31Z
+
+## Release assets
+
+| Asset | Size | Target |
+|-------|-----:|--------|
+| [nb-aarch64-linux.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-aarch64-linux.tar.gz) | 4.6 MiB | `native/linux/arm64` |
+| [nb-aarch64-linux.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-aarch64-linux.tar.gz.sha256) | 90 B | `native/linux/arm64` |
+| [nb-arm64-apple-darwin.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-arm64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
+| [nb-arm64-apple-darwin.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-arm64-apple-darwin.tar.gz.sha256) | 95 B | `native/darwin/arm64` |
+| [nb-x86_64-apple-darwin.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-x86_64-apple-darwin.tar.gz) | 1.3 MiB | `native/darwin/x64` |
+| [nb-x86_64-apple-darwin.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-x86_64-apple-darwin.tar.gz.sha256) | 96 B | `native/darwin/x64` |
+| [nb-x86_64-linux.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-x86_64-linux.tar.gz) | 4.6 MiB | `native/linux/x64` |
+| [nb-x86_64-linux.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-x86_64-linux.tar.gz.sha256) | 89 B | `native/linux/x64` |
+| [nb-x86_64-windows.zip](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-x86_64-windows.zip) | 314.9 KiB | `native/win/x64` |
+| [nb-x86_64-windows.zip.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-x86_64-windows.zip.sha256) | 88 B | `native/win/x64` |
 
 ## Popularity
 
-- **Stars**: 1,115 · **Forks**: 20 · **Open issues**: 216 · **Contributors**: 6
+- **Stars**: 1,115 · **Forks**: 19 · **Open issues**: 216 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -58,8 +72,8 @@ Total: **79,757** lines of code across **128** files in the top 5 languages.
 Install metadata for nanobrew lives in the [x-cmd/install](https://github.com/x-cmd/install) index — a curated YAML package list that x-cmd consumes at install time. If `nanobrew` is missing, out of date, or installs incorrectly, please open an issue or PR there:
 
 - **Open an issue**: <https://github.com/x-cmd/install/issues/new>
-- **Edit the package entry**: <https://github.com/x-cmd/edit/main/nanobrew.yml> (or whichever path the index uses)
+- **Edit the package entry**: <https://github.com/x-cmd/install/edit/main/nanobrew.yml> (or whichever path the index uses)
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260910.yml` · 2026-09-10T04:40:18Z._
+_Snapshot: `data/card/260910.yml` · 2026-09-10T16:17:34Z._

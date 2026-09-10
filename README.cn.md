@@ -4,7 +4,7 @@
 
 The fastest macOS package manager. Written in Zig. 3ms warm installs.
 
-![nanobrew](https://repo.x-cmd.io/nanobrew.svg)
+![nanobrew](https://repo.x-cmd.io/nanobrew.svg?lang=zh)
 
 ## 安装
 
@@ -23,11 +23,25 @@ x install nanobrew
 - **最新版本**: `v0.1.210` (2026-09-09)
 - **最近提交**: 2026-09-09
 - **Release 含资产**: 10 个
-- **发布时间**: 2026-09-09T03:44:31Z
+
+## Release 资产
+
+| 资产 | 大小 | 目标平台 |
+|------|-----:|----------|
+| [nb-aarch64-linux.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-aarch64-linux.tar.gz) | 4.6 MiB | `native/linux/arm64` |
+| [nb-aarch64-linux.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-aarch64-linux.tar.gz.sha256) | 90 B | `native/linux/arm64` |
+| [nb-arm64-apple-darwin.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-arm64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
+| [nb-arm64-apple-darwin.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-arm64-apple-darwin.tar.gz.sha256) | 95 B | `native/darwin/arm64` |
+| [nb-x86_64-apple-darwin.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-x86_64-apple-darwin.tar.gz) | 1.3 MiB | `native/darwin/x64` |
+| [nb-x86_64-apple-darwin.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-x86_64-apple-darwin.tar.gz.sha256) | 96 B | `native/darwin/x64` |
+| [nb-x86_64-linux.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-x86_64-linux.tar.gz) | 4.6 MiB | `native/linux/x64` |
+| [nb-x86_64-linux.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-x86_64-linux.tar.gz.sha256) | 89 B | `native/linux/x64` |
+| [nb-x86_64-windows.zip](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-x86_64-windows.zip) | 314.9 KiB | `native/win/x64` |
+| [nb-x86_64-windows.zip.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-x86_64-windows.zip.sha256) | 88 B | `native/win/x64` |
 
 ## 流行度
 
-- **Star**: 1,115 · **Fork**: 20 · **开放 issue**: 216 · **贡献者**: 6
+- **Star**: 1,115 · **Fork**: 19 · **开放 issue**: 216 · **贡献者**: 6
 
 ## 累计统计
 
@@ -62,4 +76,4 @@ nanobrew 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260910.yml` · 2026-09-10T04:40:18Z._
+_数据快照: `data/card/260910.yml` · 2026-09-10T16:17:35Z._
