@@ -7,7 +7,7 @@ about:
   latestVersion: "v0.1.210"
   latestRelease: "v0.1.210"
   latestPrerelease: "v0.1.204"
-  collectedAt: 2026-09-10T04:40:11Z
+  collectedAt: 2026-09-10T16:17:14Z
 timeline:
   created: 2026-02-15
   lastCommit: 2026-09-09
@@ -17,7 +17,7 @@ timeline:
 popularity:
   star: 1115
   watcher: 2
-  fork: 20
+  fork: 19
   release: 46
   contributor: 6
   pullRequest: 169
@@ -88,7 +88,7 @@ total:
   commit: 616
 ---
 path: /home/runner/.x-repo/github.com/justrach/nanobrew
-collectedAt: 2026-09-10T04:40:13Z
+collectedAt: 2026-09-10T16:17:20Z
 loc:
   Json:
     code: 41413
