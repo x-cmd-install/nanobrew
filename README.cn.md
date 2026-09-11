@@ -14,15 +14,15 @@ x install nanobrew
 
 ## 代码洞察
 
-合计: **79,757** 行代码（覆盖前 5 种语言、共 **128** 个文件）。
+合计: **80,948** 行代码（覆盖前 5 种语言、共 **133** 个文件）。
 
 | 语言 | 代码 | 注释 | 空行 | 文件数 |
 |------|-----:|-----:|-----:|------:|
 | Json | 41,413 | 0 | 0 | 27 |
-| Zig | 27,469 | 3,120 | 3,315 | 66 |
+| Zig | 28,367 | 3,166 | 3,367 | 69 |
 | JavaScript | 8,130 | 23 | 587 | 15 |
-| Python | 1,684 | 54 | 170 | 10 |
-| Sh | 994 | 140 | 147 | 10 |
+| Python | 1,947 | 63 | 184 | 12 |
+| Sh | 1,024 | 140 | 147 | 10 |
 
 ## 源代码
 
@@ -32,43 +32,43 @@ x install nanobrew
 
 ## 发布
 
-- **最新版本**: `v0.1.210` (2026-09-09)
-- **最近提交**: 2026-09-09
+- **最新版本**: `v0.1.211` (2026-09-11)
+- **最近提交**: 2026-09-11
 - **Release 含资产**: 10 个
 
 ## 流行度
 
-- **Star**: 1,114 · **Fork**: 19 · **开放 issue**: 218 · **贡献者**: 6
+- **Star**: 1,114 · **Fork**: 19 · **开放 issue**: 219 · **贡献者**: 6
 
 ## 累计统计
 
-- **发布数**: 46 · **已合并 PR**: 122 · **开放 PR**: 0 · **已关闭 issue**: 216 · **开放 issue**: 2 · **提交数**: 616
+- **发布数**: 47 · **已合并 PR**: 124 · **开放 PR**: 0 · **已关闭 issue**: 218 · **开放 issue**: 1 · **提交数**: 618
 
 ## 最近活动
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-12 | 5 | 15 | 0 | 7 | 2 | 27 |
-| last60d | 2026-07-13 | 8 | 16 | 0 | 16 | 2 | 37 |
-| 90d | 2026-06-13 | 12 | 19 | 0 | 36 | 2 | 68 |
-| last180d | 2026-03-15 | 34 | 117 | 0 | 214 | 2 | 389 |
-| 360d | 2025-09-16 | 46 | 122 | 0 | 216 | 2 | 501 |
-| last720d | 2024-09-21 | 46 | 122 | 0 | 216 | 2 | 616 |
+| 30d | 2026-08-12 | 6 | 17 | 0 | 9 | 1 | 29 |
+| last60d | 2026-07-13 | 9 | 18 | 0 | 18 | 1 | 39 |
+| 90d | 2026-06-13 | 13 | 21 | 0 | 38 | 1 | 70 |
+| last180d | 2026-03-15 | 35 | 119 | 0 | 216 | 1 | 391 |
+| 360d | 2025-09-16 | 47 | 124 | 0 | 218 | 1 | 503 |
+| last720d | 2024-09-21 | 47 | 124 | 0 | 218 | 1 | 618 |
 
 ## Release 资产
 
 | 资产 | 大小 | 目标平台 |
 |------|-----:|----------|
-| [nb-aarch64-linux.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-aarch64-linux.tar.gz) | 4.6 MiB | `native/linux/arm64` |
-| [nb-aarch64-linux.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-aarch64-linux.tar.gz.sha256) | 90 B | `native/linux/arm64` |
-| [nb-arm64-apple-darwin.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-arm64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
-| [nb-arm64-apple-darwin.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-arm64-apple-darwin.tar.gz.sha256) | 95 B | `native/darwin/arm64` |
-| [nb-x86_64-apple-darwin.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-x86_64-apple-darwin.tar.gz) | 1.3 MiB | `native/darwin/x64` |
-| [nb-x86_64-apple-darwin.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-x86_64-apple-darwin.tar.gz.sha256) | 96 B | `native/darwin/x64` |
-| [nb-x86_64-linux.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-x86_64-linux.tar.gz) | 4.6 MiB | `native/linux/x64` |
-| [nb-x86_64-linux.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-x86_64-linux.tar.gz.sha256) | 89 B | `native/linux/x64` |
-| [nb-x86_64-windows.zip](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-x86_64-windows.zip) | 314.9 KiB | `native/win/x64` |
-| [nb-x86_64-windows.zip.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.210/nb-x86_64-windows.zip.sha256) | 88 B | `native/win/x64` |
+| [nb-aarch64-linux.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-aarch64-linux.tar.gz) | 1.2 MiB | `native/linux/arm64` |
+| [nb-aarch64-linux.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-aarch64-linux.tar.gz.sha256) | 90 B | `native/linux/arm64` |
+| [nb-arm64-apple-darwin.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-arm64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
+| [nb-arm64-apple-darwin.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-arm64-apple-darwin.tar.gz.sha256) | 95 B | `native/darwin/arm64` |
+| [nb-x86_64-apple-darwin.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-x86_64-apple-darwin.tar.gz) | 1.3 MiB | `native/darwin/x64` |
+| [nb-x86_64-apple-darwin.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-x86_64-apple-darwin.tar.gz.sha256) | 96 B | `native/darwin/x64` |
+| [nb-x86_64-linux.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-x86_64-linux.tar.gz) | 1.2 MiB | `native/linux/x64` |
+| [nb-x86_64-linux.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-x86_64-linux.tar.gz.sha256) | 89 B | `native/linux/x64` |
+| [nb-x86_64-windows.zip](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-x86_64-windows.zip) | 207.6 KiB | `native/win/x64` |
+| [nb-x86_64-windows.zip.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-x86_64-windows.zip.sha256) | 88 B | `native/win/x64` |
 
 ## 改进这些数据
 
@@ -79,4 +79,4 @@ nanobrew 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260911.yml` · 2026-09-11T04:38:52Z._
+_数据快照: `data/card/260911.yml` · 2026-09-11T20:23:03Z._
