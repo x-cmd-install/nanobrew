@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1279293,
       "digest": "sha256:41fbd109b24966189fd3a38fd8e5e8ed4a823cd84096f857f7d18bb6b30e2ebc",
-      "download_count": 15,
+      "download_count": 19,
       "created_at": "2026-09-11T14:54:11Z",
       "updated_at": "2026-09-11T14:54:11Z",
       "browser_download_url": "https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-arm64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 95,
       "digest": "sha256:0b562340cd2a6aa10861b886d9973fd4e6bc9081d5c5613011d92c4f2f1cbe8a",
-      "download_count": 7,
+      "download_count": 9,
       "created_at": "2026-09-11T14:54:11Z",
       "updated_at": "2026-09-11T14:54:11Z",
       "browser_download_url": "https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-arm64-apple-darwin.tar.gz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1372787,
       "digest": "sha256:faa3c76359c0f00ec86af69847386df1e53422f3bd8447c0f30a74f192fe95b1",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2026-09-11T14:54:11Z",
       "updated_at": "2026-09-11T14:54:11Z",
       "browser_download_url": "https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-x86_64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:032efddbc51e0ba6209f7bd43d487b84e04a90dff9d57c23d02e46a8a82e1cf7",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-11T14:54:11Z",
       "updated_at": "2026-09-11T14:54:12Z",
       "browser_download_url": "https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-x86_64-apple-darwin.tar.gz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1261690,
       "digest": "sha256:8cade654e7ade23e7db1adf7bf92a2c77e24822a63453a7c500dda6862d04d87",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2026-09-11T14:54:11Z",
       "updated_at": "2026-09-11T14:54:12Z",
       "browser_download_url": "https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-x86_64-linux.tar.gz"
@@ -355,7 +355,7 @@
       "state": "uploaded",
       "size": 212576,
       "digest": "sha256:5f72f60011ae242d2f1d119cde55026f58de52ba8d1b7bff0bdefb809d431cb6",
-      "download_count": 3,
+      "download_count": 4,
       "created_at": "2026-09-11T14:54:12Z",
       "updated_at": "2026-09-11T14:54:12Z",
       "browser_download_url": "https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-x86_64-windows.zip"
