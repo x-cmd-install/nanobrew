@@ -14,14 +14,14 @@ x install nanobrew
 
 ## Code insight
 
-Total: **82,058** lines of code across **142** files in the top 5 languages.
+Total: **82,451** lines of code across **146** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
-| Json | 41,734 | 0 | 0 | 28 |
-| Zig | 28,367 | 3,166 | 3,367 | 69 |
+| Json | 41,960 | 0 | 0 | 29 |
+| Zig | 28,381 | 3,169 | 3,368 | 69 |
 | JavaScript | 8,130 | 23 | 587 | 15 |
-| Python | 2,736 | 84 | 276 | 20 |
+| Python | 2,889 | 87 | 299 | 23 |
 | Sh | 1,024 | 140 | 147 | 10 |
 
 ## Source
@@ -32,43 +32,43 @@ Total: **82,058** lines of code across **142** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `intel-libraries-35005926500-1` (2026-09-11)
-- **Last commit**: 2026-09-15
+- **Latest**: `v0.1.212-rc.1` (2026-09-16)
+- **Last commit**: 2026-09-16
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 1,119 · **Forks**: 19 · **Open issues**: 219 · **Contributors**: 6
+- **Stars**: 1,120 · **Forks**: 19 · **Open issues**: 219 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 53 · **Merged PRs**: 128 · **Open PRs**: 1 · **Closed issues**: 218 · **Open issues**: 1 · **Commits**: 625
+- **Releases**: 55 · **Merged PRs**: 131 · **Open PRs**: 1 · **Closed issues**: 218 · **Open issues**: 1 · **Commits**: 636
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-17 | 9 | 15 | 1 | 7 | 1 | 18 |
-| last60d | 2026-07-18 | 15 | 22 | 1 | 18 | 1 | 34 |
-| 90d | 2026-06-18 | 19 | 24 | 1 | 34 | 1 | 74 |
-| last180d | 2026-03-20 | 41 | 123 | 1 | 216 | 1 | 395 |
-| 360d | 2025-09-21 | 53 | 128 | 1 | 218 | 1 | 508 |
-| last720d | 2024-09-26 | 53 | 128 | 1 | 218 | 1 | 625 |
+| 30d | 2026-08-18 | 11 | 18 | 1 | 7 | 1 | 26 |
+| last60d | 2026-07-19 | 17 | 25 | 1 | 18 | 1 | 42 |
+| 90d | 2026-06-19 | 21 | 27 | 1 | 34 | 1 | 82 |
+| last180d | 2026-03-21 | 43 | 126 | 1 | 216 | 1 | 403 |
+| 360d | 2025-09-22 | 55 | 131 | 1 | 218 | 1 | 516 |
+| last720d | 2024-09-27 | 55 | 131 | 1 | 218 | 1 | 636 |
 
 ## Release assets
 
 | Asset | Size | Target |
 |-------|-----:|--------|
-| [nb-aarch64-linux.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-aarch64-linux.tar.gz) | 1.2 MiB | `native/linux/arm64` |
-| [nb-aarch64-linux.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-aarch64-linux.tar.gz.sha256) | 90 B | `native/linux/arm64` |
-| [nb-arm64-apple-darwin.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-arm64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
-| [nb-arm64-apple-darwin.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-arm64-apple-darwin.tar.gz.sha256) | 95 B | `native/darwin/arm64` |
-| [nb-x86_64-apple-darwin.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-x86_64-apple-darwin.tar.gz) | 1.3 MiB | `native/darwin/x64` |
-| [nb-x86_64-apple-darwin.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-x86_64-apple-darwin.tar.gz.sha256) | 96 B | `native/darwin/x64` |
-| [nb-x86_64-linux.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-x86_64-linux.tar.gz) | 1.2 MiB | `native/linux/x64` |
-| [nb-x86_64-linux.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-x86_64-linux.tar.gz.sha256) | 89 B | `native/linux/x64` |
-| [nb-x86_64-windows.zip](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-x86_64-windows.zip) | 207.6 KiB | `native/win/x64` |
-| [nb-x86_64-windows.zip.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.211/nb-x86_64-windows.zip.sha256) | 88 B | `native/win/x64` |
+| [nb-aarch64-linux.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.212/nb-aarch64-linux.tar.gz) | 1.2 MiB | `native/linux/arm64` |
+| [nb-aarch64-linux.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.212/nb-aarch64-linux.tar.gz.sha256) | 90 B | `native/linux/arm64` |
+| [nb-arm64-apple-darwin.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.212/nb-arm64-apple-darwin.tar.gz) | 1.2 MiB | `native/darwin/arm64` |
+| [nb-arm64-apple-darwin.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.212/nb-arm64-apple-darwin.tar.gz.sha256) | 95 B | `native/darwin/arm64` |
+| [nb-x86_64-apple-darwin.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.212/nb-x86_64-apple-darwin.tar.gz) | 1.3 MiB | `native/darwin/x64` |
+| [nb-x86_64-apple-darwin.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.212/nb-x86_64-apple-darwin.tar.gz.sha256) | 96 B | `native/darwin/x64` |
+| [nb-x86_64-linux.tar.gz](https://github.com/justrach/nanobrew/releases/download/v0.1.212/nb-x86_64-linux.tar.gz) | 1.2 MiB | `native/linux/x64` |
+| [nb-x86_64-linux.tar.gz.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.212/nb-x86_64-linux.tar.gz.sha256) | 89 B | `native/linux/x64` |
+| [nb-x86_64-windows.zip](https://github.com/justrach/nanobrew/releases/download/v0.1.212/nb-x86_64-windows.zip) | 209.1 KiB | `native/win/x64` |
+| [nb-x86_64-windows.zip.sha256](https://github.com/justrach/nanobrew/releases/download/v0.1.212/nb-x86_64-windows.zip.sha256) | 88 B | `native/win/x64` |
 
 ## Improve this data
 
@@ -79,4 +79,4 @@ Install metadata for nanobrew lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260916.yml` · 2026-09-16T04:46:17Z._
+_Snapshot: `data/card/260917.yml` · 2026-09-17T04:49:44Z._
