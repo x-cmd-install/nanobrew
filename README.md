@@ -32,28 +32,28 @@ Total: **82,451** lines of code across **146** files in the top 5 languages.
 
 ## Release
 
-- **Latest**: `v0.1.212-rc.1` (2026-09-16)
+- **Latest**: `monterey-intel-pilot-35267015112` (2026-09-16)
 - **Last commit**: 2026-09-16
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 1,120 · **Forks**: 19 · **Open issues**: 219 · **Contributors**: 6
+- **Stars**: 1,121 · **Forks**: 19 · **Open issues**: 220 · **Contributors**: 6
 
 ## Totals (cumulative)
 
-- **Releases**: 55 · **Merged PRs**: 131 · **Open PRs**: 1 · **Closed issues**: 218 · **Open issues**: 1 · **Commits**: 636
+- **Releases**: 56 · **Merged PRs**: 131 · **Open PRs**: 1 · **Closed issues**: 218 · **Open issues**: 2 · **Commits**: 636
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-18 | 11 | 18 | 1 | 7 | 1 | 26 |
-| last60d | 2026-07-19 | 17 | 25 | 1 | 18 | 1 | 42 |
-| 90d | 2026-06-19 | 21 | 27 | 1 | 34 | 1 | 82 |
-| last180d | 2026-03-21 | 43 | 126 | 1 | 216 | 1 | 403 |
-| 360d | 2025-09-22 | 55 | 131 | 1 | 218 | 1 | 516 |
-| last720d | 2024-09-27 | 55 | 131 | 1 | 218 | 1 | 636 |
+| 30d | 2026-08-19 | 12 | 18 | 1 | 6 | 2 | 26 |
+| last60d | 2026-07-20 | 17 | 25 | 1 | 18 | 2 | 42 |
+| 90d | 2026-06-20 | 22 | 27 | 1 | 34 | 2 | 82 |
+| last180d | 2026-03-22 | 44 | 126 | 1 | 216 | 2 | 403 |
+| 360d | 2025-09-23 | 56 | 131 | 1 | 218 | 2 | 516 |
+| last720d | 2024-09-28 | 56 | 131 | 1 | 218 | 2 | 636 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for nanobrew lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260917.yml` · 2026-09-17T04:49:44Z._
+_Snapshot: `data/card/260918.yml` · 2026-09-18T04:49:29Z._
