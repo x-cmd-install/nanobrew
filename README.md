@@ -4,7 +4,7 @@
 
 The fastest macOS package manager. Written in Zig. 3ms warm installs.
 
-![nanobrew](https://repo.x-cmd.io/nanobrew.svg)
+[![x-cmd/install — nanobrew Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nanobrew.svg)](https://x-cmd.com/install/nanobrew)
 
 ## Install
 
@@ -38,7 +38,7 @@ Total: **82,451** lines of code across **146** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,121 · **Forks**: 19 · **Open issues**: 220 · **Contributors**: 6
+- **Stars**: 1,122 · **Forks**: 19 · **Open issues**: 220 · **Contributors**: 6
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **82,451** lines of code across **146** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 12 | 18 | 1 | 6 | 2 | 26 |
-| last60d | 2026-07-20 | 17 | 25 | 1 | 18 | 2 | 42 |
-| 90d | 2026-06-20 | 22 | 27 | 1 | 34 | 2 | 82 |
-| last180d | 2026-03-22 | 44 | 126 | 1 | 216 | 2 | 403 |
-| 360d | 2025-09-23 | 56 | 131 | 1 | 218 | 2 | 516 |
-| last720d | 2024-09-28 | 56 | 131 | 1 | 218 | 2 | 636 |
+| 30d | 2026-08-21 | 12 | 18 | 1 | 6 | 2 | 26 |
+| last60d | 2026-07-22 | 15 | 24 | 1 | 18 | 2 | 42 |
+| 90d | 2026-06-22 | 22 | 27 | 1 | 33 | 2 | 57 |
+| last180d | 2026-03-24 | 44 | 125 | 1 | 193 | 2 | 317 |
+| 360d | 2025-09-25 | 56 | 131 | 1 | 218 | 2 | 516 |
+| last720d | 2024-09-30 | 56 | 131 | 1 | 218 | 2 | 636 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for nanobrew lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/260918.yml` · 2026-09-18T04:49:29Z._
+_Snapshot: `data/card/260920.yml` · 2026-09-20T04:58:16Z._

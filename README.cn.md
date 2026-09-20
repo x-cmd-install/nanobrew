@@ -4,7 +4,7 @@
 
 The fastest macOS package manager. Written in Zig. 3ms warm installs.
 
-![nanobrew](https://repo.x-cmd.io/nanobrew.svg?lang=zh)
+[![x-cmd/install — nanobrew Code Quality Monitoring Repo Card](https://repo.x-cmd.io/nanobrew.svg?lang=zh)](https://x-cmd.com/install/nanobrew)
 
 ## 安装
 
@@ -38,7 +38,7 @@ x install nanobrew
 
 ## 流行度
 
-- **Star**: 1,121 · **Fork**: 19 · **开放 issue**: 220 · **贡献者**: 6
+- **Star**: 1,122 · **Fork**: 19 · **开放 issue**: 220 · **贡献者**: 6
 
 ## 累计统计
 
@@ -48,12 +48,12 @@ x install nanobrew
 
 | 时间窗口 | 起始 | 发布 | 已合并 PR | 开放 PR | 已关闭 issue | 开放 issue | 提交 |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-08-19 | 12 | 18 | 1 | 6 | 2 | 26 |
-| last60d | 2026-07-20 | 17 | 25 | 1 | 18 | 2 | 42 |
-| 90d | 2026-06-20 | 22 | 27 | 1 | 34 | 2 | 82 |
-| last180d | 2026-03-22 | 44 | 126 | 1 | 216 | 2 | 403 |
-| 360d | 2025-09-23 | 56 | 131 | 1 | 218 | 2 | 516 |
-| last720d | 2024-09-28 | 56 | 131 | 1 | 218 | 2 | 636 |
+| 30d | 2026-08-21 | 12 | 18 | 1 | 6 | 2 | 26 |
+| last60d | 2026-07-22 | 15 | 24 | 1 | 18 | 2 | 42 |
+| 90d | 2026-06-22 | 22 | 27 | 1 | 33 | 2 | 57 |
+| last180d | 2026-03-24 | 44 | 125 | 1 | 193 | 2 | 317 |
+| 360d | 2025-09-25 | 56 | 131 | 1 | 218 | 2 | 516 |
+| last720d | 2024-09-30 | 56 | 131 | 1 | 218 | 2 | 636 |
 
 ## Release 资产
 
@@ -79,4 +79,4 @@ nanobrew 的安装元数据由 [x-cmd/install](https://github.com/x-cmd/install)
 
 本页面的数据（card / loc / scorecard / release）由 [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) 自动采集，每日重新生成。**安装行为**（版本选择、平台差异、依赖处理）的改进应提交到上游索引。
 
-_数据快照: `data/card/260918.yml` · 2026-09-18T04:49:29Z._
+_数据快照: `data/card/260920.yml` · 2026-09-20T04:58:16Z._
