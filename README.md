@@ -38,7 +38,7 @@ Total: **83,675** lines of code across **153** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,127 · **Forks**: 20 · **Open issues**: 222 · **Contributors**: 7
+- **Stars**: 1,127 · **Forks**: 19 · **Open issues**: 222 · **Contributors**: 7
 
 ## Totals (cumulative)
 
@@ -48,12 +48,12 @@ Total: **83,675** lines of code across **153** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-02 | 12 | 22 | 3 | 5 | 2 | 43 |
-| last60d | 2026-08-03 | 15 | 28 | 3 | 11 | 2 | 59 |
-| 90d | 2026-07-04 | 19 | 30 | 3 | 21 | 2 | 74 |
-| last180d | 2026-04-05 | 29 | 100 | 3 | 114 | 2 | 294 |
-| 360d | 2025-10-07 | 56 | 135 | 3 | 220 | 2 | 533 |
-| last720d | 2024-10-12 | 56 | 135 | 3 | 220 | 2 | 658 |
+| 30d | 2026-09-03 | 12 | 22 | 3 | 4 | 2 | 43 |
+| last60d | 2026-08-04 | 15 | 28 | 3 | 11 | 2 | 59 |
+| 90d | 2026-07-05 | 19 | 30 | 3 | 21 | 2 | 74 |
+| last180d | 2026-04-06 | 29 | 100 | 3 | 114 | 2 | 294 |
+| 360d | 2025-10-08 | 56 | 135 | 3 | 220 | 2 | 533 |
+| last720d | 2024-10-13 | 56 | 135 | 3 | 220 | 2 | 658 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for nanobrew lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261002.yml` · 2026-10-02T05:35:38Z._
+_Snapshot: `data/card/261003.yml` · 2026-10-03T05:13:27Z._
