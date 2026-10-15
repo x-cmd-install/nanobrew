@@ -14,14 +14,14 @@ x install nanobrew
 
 ## Code insight
 
-Total: **83,745** lines of code across **153** files in the top 5 languages.
+Total: **83,985** lines of code across **153** files in the top 5 languages.
 
 | Language | Code | Comments | Blanks | Files |
 |----------|-----:|---------:|-------:|------:|
 | Json | 42,135 | 0 | 0 | 30 |
-| Zig | 28,882 | 3,220 | 3,423 | 70 |
-| JavaScript | 8,130 | 23 | 587 | 15 |
-| Python | 3,495 | 98 | 371 | 28 |
+| Zig | 29,099 | 3,240 | 3,448 | 70 |
+| JavaScript | 8,141 | 25 | 587 | 15 |
+| Python | 3,507 | 98 | 371 | 28 |
 | Sh | 1,036 | 142 | 149 | 10 |
 
 ## Source
@@ -33,27 +33,27 @@ Total: **83,745** lines of code across **153** files in the top 5 languages.
 ## Release
 
 - **Latest**: `monterey-intel-pilot-35267015112` (2026-09-16)
-- **Last commit**: 2026-10-05
+- **Last commit**: 2026-10-14
 - **Assets in release**: 10
 
 ## Popularity
 
-- **Stars**: 1,138 · **Forks**: 20 · **Open issues**: 224 · **Contributors**: 7
+- **Stars**: 1,137 · **Forks**: 20 · **Open issues**: 224 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 56 · **Merged PRs**: 137 · **Open PRs**: 2 · **Closed issues**: 221 · **Open issues**: 3 · **Commits**: 662
+- **Releases**: 56 · **Merged PRs**: 149 · **Open PRs**: 2 · **Closed issues**: 222 · **Open issues**: 2 · **Commits**: 683
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-14 | 9 | 13 | 1 | 3 | 2 | 19 |
-| last60d | 2026-08-15 | 14 | 24 | 2 | 11 | 3 | 45 |
-| 90d | 2026-07-16 | 18 | 31 | 2 | 21 | 3 | 69 |
-| last180d | 2026-04-17 | 28 | 76 | 2 | 92 | 3 | 229 |
-| 360d | 2025-10-19 | 56 | 137 | 2 | 221 | 3 | 535 |
-| last720d | 2024-10-24 | 56 | 137 | 2 | 221 | 3 | 662 |
+| 30d | 2026-09-15 | 9 | 21 | 1 | 4 | 1 | 30 |
+| last60d | 2026-08-16 | 12 | 36 | 2 | 11 | 2 | 56 |
+| 90d | 2026-07-17 | 18 | 43 | 2 | 22 | 2 | 80 |
+| last180d | 2026-04-18 | 28 | 88 | 2 | 93 | 2 | 240 |
+| 360d | 2025-10-20 | 56 | 149 | 2 | 222 | 2 | 546 |
+| last720d | 2024-10-25 | 56 | 149 | 2 | 222 | 2 | 683 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for nanobrew lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261014.yml` · 2026-10-14T04:46:53Z._
+_Snapshot: `data/card/261015.yml` · 2026-10-15T04:35:57Z._
