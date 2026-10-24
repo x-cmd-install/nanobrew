@@ -48,12 +48,12 @@ Total: **83,985** lines of code across **153** files in the top 5 languages.
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-09-23 | 0 | 18 | 1 | 3 | 1 | 17 |
-| last60d | 2026-08-24 | 12 | 36 | 2 | 10 | 2 | 56 |
-| 90d | 2026-07-25 | 15 | 42 | 2 | 16 | 2 | 72 |
-| last180d | 2026-04-26 | 27 | 73 | 2 | 70 | 2 | 194 |
-| 360d | 2025-10-28 | 56 | 149 | 2 | 222 | 2 | 546 |
-| last720d | 2024-11-02 | 56 | 149 | 2 | 222 | 2 | 683 |
+| 30d | 2026-09-24 | 0 | 16 | 1 | 2 | 1 | 17 |
+| last60d | 2026-08-25 | 12 | 36 | 2 | 10 | 2 | 56 |
+| 90d | 2026-07-26 | 15 | 42 | 2 | 16 | 2 | 72 |
+| last180d | 2026-04-27 | 26 | 73 | 2 | 70 | 2 | 194 |
+| 360d | 2025-10-29 | 56 | 149 | 2 | 222 | 2 | 546 |
+| last720d | 2024-11-03 | 56 | 149 | 2 | 222 | 2 | 683 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for nanobrew lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261023.yml` · 2026-10-23T04:42:04Z._
+_Snapshot: `data/card/261024.yml` · 2026-10-24T04:31:05Z._
