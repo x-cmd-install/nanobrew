@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 1357781,
       "digest": "sha256:b577bcc573c83473239a17881de404550e5c2df3fdfe6913a116a1c290993281",
-      "download_count": 52,
+      "download_count": 55,
       "created_at": "2026-11-07T11:08:52Z",
       "updated_at": "2026-11-07T11:08:54Z",
       "browser_download_url": "https://github.com/justrach/nanobrew/releases/download/v0.1.216/nb-arm64-apple-darwin.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 95,
       "digest": "sha256:4e91dd0c177b436fae19445634da943c4c82e49efb17eab746477f3940ba886e",
-      "download_count": 51,
+      "download_count": 53,
       "created_at": "2026-11-07T11:08:52Z",
       "updated_at": "2026-11-07T11:08:53Z",
       "browser_download_url": "https://github.com/justrach/nanobrew/releases/download/v0.1.216/nb-arm64-apple-darwin.tar.gz.sha256"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 1464134,
       "digest": "sha256:bf828e449493a84f0f219ba357c6371bd8f885be0d63c66a6f45c64dbb992fe3",
-      "download_count": 10,
+      "download_count": 13,
       "created_at": "2026-11-07T11:08:52Z",
       "updated_at": "2026-11-07T11:08:54Z",
       "browser_download_url": "https://github.com/justrach/nanobrew/releases/download/v0.1.216/nb-x86_64-apple-darwin.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 96,
       "digest": "sha256:15f813a60f71aed08c95ab3da19d4b1ae5e5ed65172cc0431cf770fe25048d6a",
-      "download_count": 9,
+      "download_count": 11,
       "created_at": "2026-11-07T11:08:54Z",
       "updated_at": "2026-11-07T11:08:54Z",
       "browser_download_url": "https://github.com/justrach/nanobrew/releases/download/v0.1.216/nb-x86_64-apple-darwin.tar.gz.sha256"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 1329246,
       "digest": "sha256:8a924b8f4f754fafc5e8f6f514426d615c87705579be24cc25b531c78bead12f",
-      "download_count": 18,
+      "download_count": 20,
       "created_at": "2026-11-07T11:08:54Z",
       "updated_at": "2026-11-07T11:08:54Z",
       "browser_download_url": "https://github.com/justrach/nanobrew/releases/download/v0.1.216/nb-x86_64-linux.tar.gz"
