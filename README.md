@@ -38,22 +38,22 @@ Total: **87,426** lines of code across **153** files in the top 5 languages.
 
 ## Popularity
 
-- **Stars**: 1,162 · **Forks**: 23 · **Open issues**: 266 · **Contributors**: 8
+- **Stars**: 1,163 · **Forks**: 23 · **Open issues**: 267 · **Contributors**: 8
 
 ## Totals (cumulative)
 
-- **Releases**: 60 · **Merged PRs**: 194 · **Open PRs**: 9 · **Closed issues**: 258 · **Open issues**: 8 · **Commits**: 840
+- **Releases**: 60 · **Merged PRs**: 194 · **Open PRs**: 9 · **Closed issues**: 258 · **Open issues**: 9 · **Commits**: 840
 
 ## Recent activity
 
 | Window | Since | Releases | Merged PRs | Open PRs | Closed issues | Open issues | Commits |
 |---|---|---:|---:|---:|---:|---:|---:|
-| 30d | 2026-10-28 | 4 | 45 | 8 | 36 | 6 | 70 |
-| last60d | 2026-09-28 | 4 | 59 | 8 | 38 | 7 | 83 |
-| 90d | 2026-08-29 | 16 | 81 | 9 | 44 | 8 | 126 |
-| last180d | 2026-05-31 | 28 | 105 | 9 | 88 | 8 | 218 |
-| 360d | 2025-12-02 | 60 | 194 | 9 | 258 | 8 | 616 |
-| last720d | 2024-12-07 | 60 | 194 | 9 | 258 | 8 | 840 |
+| 30d | 2026-10-29 | 4 | 45 | 8 | 36 | 7 | 70 |
+| last60d | 2026-09-29 | 4 | 59 | 8 | 38 | 8 | 83 |
+| 90d | 2026-08-30 | 16 | 81 | 9 | 44 | 9 | 126 |
+| last180d | 2026-06-01 | 28 | 102 | 9 | 84 | 9 | 218 |
+| 360d | 2025-12-03 | 60 | 194 | 9 | 258 | 9 | 616 |
+| last720d | 2024-12-08 | 60 | 194 | 9 | 258 | 9 | 840 |
 
 ## Release assets
 
@@ -79,4 +79,4 @@ Install metadata for nanobrew lives in the [x-cmd/install](https://github.com/x-
 
 The data on this page (card / loc / scorecard / release) is auto-collected by [x-cmd-install-action](https://github.com/x-cmd-install/x-cmd-install-action) and is regenerated daily. Improvements to *install behaviour* (which version gets installed, platform-specific quirks, dependencies) belong upstream in the index.
 
-_Snapshot: `data/card/261127.yml` · 2026-11-27T09:45:12Z._
+_Snapshot: `data/card/261128.yml` · 2026-11-28T07:39:56Z._
